@@ -48,4 +48,5 @@ In almost every single menu/sub-menu, the user has the option to log out or quit
 	 - **competency_report_for_single_user.csv:** this is the output when the manager wants export a CSV file for a single user's competency report
 	 - **competency_report_by_competency_and_users.csv:** this is the output when the manager wants export a CSV file for all user's competency reports
 	 - **importing.csv:** this file is used for when the manager wants to import assessment result data from a CSV file into the database
+  - **ERD.jpg**: ERD picture on paper
 
